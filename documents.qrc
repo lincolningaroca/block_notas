@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dedicatoria.txt</file>
+    </qresource>
+</RCC>
