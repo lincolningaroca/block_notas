@@ -699,7 +699,7 @@ void MainWindow::closeEvent(QCloseEvent *e){
                              " <Cerrar sesión..>"),
                            tr("<p style=\"color:#660000\">Antes de salir de la aplicación, debe cerrar sesión...<br>"
                               "Ir a menu: <b>Archivo->Usuarios->CerrarSesión.</b><br>"
-                              "O puede presionar la combinación de teclas <b>Ctrl+Alt+P</b></p>"));
+                              "O puede presionar la combinación de teclas <b>Ctrl+Mayus+w</b></p>"));
       e->ignore();
     }else{
 
